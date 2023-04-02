@@ -1,6 +1,6 @@
 ### Olá, meu nome é Matheus Coutinho de Paula 👋
-- 🔭 Atualmente trabalho como Apoio Administrativo, em busca de minha primeira experiência profissional como Front-End
-- 🌱 Estou estudando: HTML / CSS / JAVASCRIPT / C#
+- 🔭 Atualmente trabalho como Apoio Administrativo, em busca de minha primeira experiência profissional como programador
+- 🌱 Conhecimentos: PYTHON / SQL / HTML / CSS / JAVASCRIPT / C#
 <div align="center">
   <a href="https://github.com/MathCouti">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mathcouti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
